@@ -6,5 +6,9 @@ def demo():
 
 print(demo())
 
+def demo2():
+    pass
+
+
 def sample():
     print('hi')
