@@ -5,3 +5,6 @@ def demo():
     print('dev-two branch')
 
 print(demo())
+
+def demo2():
+    pass
