@@ -1,2 +1,4 @@
 def demo():
-    return 'hello world'
+    return 'hello world!'
+
+print(demo())
